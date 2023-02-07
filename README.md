@@ -1,7 +1,7 @@
 # \[TKO\]
 
 **Group members:**
-- A
+- Kasper Weilby
 - B
 - C
 
