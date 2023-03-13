@@ -2,8 +2,8 @@
 
 **Group members:**
 - Kasper Weilby
-- B
-- C
+- Oscar Ernst Alfthan Madsen
+- Theodor Justus Bock
 
 This repository contains  
 1. Inaugural project. 
